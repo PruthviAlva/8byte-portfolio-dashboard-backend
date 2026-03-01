@@ -1,0 +1,202 @@
+[
+  {
+    "symbol": "INFY",
+    "name": "Infosys",
+    "sector": "Technology",
+    "exchange": "NSE",
+    "purchasePrice": 1647,
+    "quantity": 36
+  },
+  {
+    "symbol": "HDFCBANK",
+    "name": "HDFC Bank",
+    "sector": "Financials",
+    "exchange": "NSE",
+    "purchasePrice": 1500,
+    "quantity": 5
+  },
+  {
+    "symbol": "BAJFINANCE",
+    "name": "Bajaj Finance",
+    "sector": "Financials",
+    "exchange": "NSE",
+    "purchasePrice": 6466,
+    "quantity": 15
+  },
+  {
+    "symbol": "ICICIBANK",
+    "name": "ICICI Bank",
+    "sector": "Financials",
+    "exchange": "NSE",
+    "purchasePrice": 780,
+    "quantity": 84
+  },
+  {
+    "symbol": "DMART",
+    "name": "DMart",
+    "sector": "Consumer",
+    "exchange": "NSE",
+    "purchasePrice": 3777,
+    "quantity": 27
+  },
+  {
+    "symbol": "TATACONSUM",
+    "name": "Tata Consumer",
+    "sector": "Consumer",
+    "exchange": "NSE",
+    "purchasePrice": 845,
+    "quantity": 90
+  },
+  {
+    "symbol": "PIDILITIND",
+    "name": "Pidilite",
+    "sector": "Consumer",
+    "exchange": "NSE",
+    "purchasePrice": 2376,
+    "quantity": 36
+  },
+  {
+    "symbol": "AFFLE",
+    "name": "Affle India",
+    "sector": "Technology",
+    "exchange": "NSE",
+    "purchasePrice": 1151,
+    "quantity": 50
+  },
+  {
+    "symbol": "LTIM",
+    "name": "LTIMindtree",
+    "sector": "Technology",
+    "exchange": "NSE",
+    "purchasePrice": 4775,
+    "quantity": 16
+  },
+  {
+    "symbol": "KPITTECH",
+    "name": "KPIT Tech",
+    "sector": "Technology",
+    "exchange": "NSE",
+    "purchasePrice": 672,
+    "quantity": 61
+  },
+  {
+    "symbol": "TATATECH",
+    "name": "Tata Tech",
+    "sector": "Technology",
+    "exchange": "NSE",
+    "purchasePrice": 1072,
+    "quantity": 63
+  },
+  {
+    "symbol": "TANLA",
+    "name": "Tanla",
+    "sector": "Technology",
+    "exchange": "NSE",
+    "purchasePrice": 1134,
+    "quantity": 45
+  },
+  {
+    "symbol": "TATAPOWER",
+    "name": "Tata Power",
+    "sector": "Power",
+    "exchange": "NSE",
+    "purchasePrice": 224,
+    "quantity": 225
+  },
+  {
+    "symbol": "KPIGREEN",
+    "name": "KPI Green",
+    "sector": "Power",
+    "exchange": "NSE",
+    "purchasePrice": 875,
+    "quantity": 50
+  },
+  {
+    "symbol": "SUZLON",
+    "name": "Suzlon",
+    "sector": "Power",
+    "exchange": "NSE",
+    "purchasePrice": 44,
+    "quantity": 450
+  },
+  {
+    "symbol": "HARIOMPIPE",
+    "name": "Hariom Pipes",
+    "sector": "Pipe Sector",
+    "exchange": "NSE",
+    "purchasePrice": 580,
+    "quantity": 60
+  },
+  {
+    "symbol": "ASTRAL",
+    "name": "Astral",
+    "sector": "Pipe Sector",
+    "exchange": "NSE",
+    "purchasePrice": 1517,
+    "quantity": 56
+  },
+  {
+    "symbol": "POLYCAB",
+    "name": "Polycab",
+    "sector": "Pipe Sector",
+    "exchange": "NSE",
+    "purchasePrice": 2818,
+    "quantity": 28
+  },
+  {
+    "symbol": "CLEAN",
+    "name": "Clean Science",
+    "sector": "Others",
+    "exchange": "NSE",
+    "purchasePrice": 1610,
+    "quantity": 32
+  },
+  {
+    "symbol": "DEEPAKNTR",
+    "name": "Deepak Nitrite",
+    "sector": "Others",
+    "exchange": "NSE",
+    "purchasePrice": 2248,
+    "quantity": 27
+  },
+  {
+    "symbol": "FINEORG",
+    "name": "Fine Organic",
+    "sector": "Others",
+    "exchange": "NSE",
+    "purchasePrice": 4284,
+    "quantity": 16
+  },
+  {
+    "symbol": "GRAVITA",
+    "name": "Gravita",
+    "sector": "Others",
+    "exchange": "NSE",
+    "purchasePrice": 2037,
+    "quantity": 8
+  },
+  {
+    "symbol": "SBILIFE",
+    "name": "SBI Life",
+    "sector": "Others",
+    "exchange": "NSE",
+    "purchasePrice": 1197,
+    "quantity": 49
+  },
+  {
+    "symbol": "HAPPSTMNDS",
+    "name": "Happiest Minds",
+    "sector": "Others",
+    "exchange": "NSE",
+    "purchasePrice": 1103,
+    "quantity": 45
+  },
+  {
+    "symbol": "EASEMYTRIP",
+    "name": "EaseMyTrip",
+    "sector": "Others",
+    "exchange": "NSE",
+    "purchasePrice": 20,
+    "quantity": 1332
+  }
+]
