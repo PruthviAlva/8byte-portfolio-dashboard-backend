@@ -1,7 +1,7 @@
 const express = require('express');
 const cors = require('cors'); 
 
-const portfolioRoutes = require('./routes/portfolio.routes');
+const portfolioRoutes = require('../routes/portfolio.routes');
 
 const app = express();
 /* Enable CORS for all routes cross-origin requests have to be allowed
