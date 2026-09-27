@@ -1,5 +1,5 @@
 # Technical Documentation
-8Byte Portfolio Dashboard Backend
+Stock Portfolio Dashboard Backend
 
 ---
 

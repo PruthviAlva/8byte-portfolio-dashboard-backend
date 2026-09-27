@@ -1,4 +1,4 @@
-# 📊 8Byte Portfolio Dashboard – Backend
+# 📊 Stock Portfolio Dashboard – Backend
 
 ## 🚀 Overview
 Node.js backend application that calculates stock portfolio performance using live market data from Yahoo Finance API.
@@ -19,7 +19,7 @@ backend/
 ├── services/
 ├── routes/
 ├── data/
-└── server.js
+└── src/server.js
 
 ---
 
@@ -29,6 +29,9 @@ git clone <repo-url>
 cd backend
 npm install
 npm start
+
+For development with automatic restarts, use npm run dev. The API listens on
+port 5000 by default; set PORT to use a different port.
 
 ---
 
